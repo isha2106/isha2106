@@ -2,7 +2,7 @@
 <h3 align="center">Exploring life, one codon at a time 🧬</h3>
 <hr>
 <hr>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRpMGtlcHY3em5vN3h5bzRua2dwY2sxNTN2dHZiN25nZzBnZjRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRpMGtlcHY3em5vN3h5bzRua2dwY2sxNTN2dHZiN25nZzBnZjRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif">
 
 - 🔭 I am currently working as a Bioinformatician at **Dana Farber Cancer Institute**
 
