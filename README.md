@@ -4,7 +4,7 @@
 <hr>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNrdGt3ZDJ4ZmU5enMybWdoZW1sbXRwOWFvcXJxNzFtdXo1ODMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">
 
-- 🔭 I am currently working at **Dana Farber Cancer Institute**
+- 🔭 I am currently working as a Bioinformatician at **Dana Farber Cancer Institute**
 
 - 👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
 
@@ -13,7 +13,7 @@
 - 📫 Reach me at: **ishaparikh2106@gmail.com**
 <hr>
 <hr>
-<div style="font-family: 'Times New Roman', Times, serif;"> As a former "lab rat," I honed my skills in biotechnology before transitioning into graduate studies focused on Bioinformatics. My journey into data analysis allowed me to delve into the world of cancer data using electronic medical records, nurturing a deep passion for data management and bioinformatics. Now pursuing my master's, I've embraced the challenges of mastering programming languages like Python and R. Sequencing and deciphering complex datasets have become my playground and my motivation lies in unraveling the mysteries of biology to address real-world problems.
+<div style="font-family: 'Times New Roman', Times, serif;"> As a former "lab rat", I honed my skills in biotechnology before transitioning into graduate studies focused on Bioinformatics. My journey into data analysis allowed me to delve into the world of cancer data using electronic medical records, nurturing a deep passion for data management and bioinformatics. Now pursuing my master's, I've embraced the challenges of mastering programming languages like Python and R. Sequencing and deciphering complex datasets have become my playground and my motivation lies in unraveling the mysteries of biology to address real-world problems.
 I relish the opportunity to try new things and continuously learn and grow. I like to explore new bioinformatics tools biotech advancements and like reading about cancer and space biology articles. Join me in this riveting journey, where science, data and curiosity converge to explore the boundless possibilities of the bioinformatics landscape.</div>
 <hr>
 <h3 align="center">Languages and Tools</h3>
