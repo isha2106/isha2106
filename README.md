@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Isha Parikh</h1>
 <h3 align="center">Exploring life, one codon at a time 🧬</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNrdGt3ZDJ4ZmU5enMybWdoZW1sbXRwOWFvcXJxNzFtdXo1ODMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNrdGt3ZDJ4ZmU5enMybWdoZW1sbXRwOWFvcXJxNzFtdXo1ODMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">
 
 - 🔭 I’m currently working at **Dana Farber Cancer Institute**
 
