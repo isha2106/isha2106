@@ -4,11 +4,11 @@
 <hr>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNrdGt3ZDJ4ZmU5enMybWdoZW1sbXRwOWFvcXJxNzFtdXo1ODMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif">
 
-- 🔭 I’m currently working at **Dana Farber Cancer Institute**
+- 🔭 I am currently working at **Dana Farber Cancer Institute**
 
 - 👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
 
-- 📄 My Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
+- 📄 [My Publications](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
 
 - 📫 Reach me at: **ishaparikh2106@gmail.com**
 <hr>
