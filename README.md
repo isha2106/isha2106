@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Isha Parikh</h1>
 <h3 align="center">Exploring life, One codon at a time!</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1582688196&psig=AOvVaw3oRU5NBB1Tb3OPb39atZvq&ust=1716492002543000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjAh5b9oYYDFQAAAAAdAAAAABAJ)">
+
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](<iframe src="https://giphy.com/embed/zdhgBtpANvh6G6ERNz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Massivesci-genetics-genes-gene-sequencing-zdhgBtpANvh6G6ERNz">via GIPHY</a></p>)">
+
+
 
 - 🔭 I’m currently working at **Dana Farber Cancer Institute**
 
