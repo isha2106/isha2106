@@ -2,7 +2,7 @@
 <h3 align="center">Exploring life, One codon at a time!</h3>
 
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](<iframe src="https://giphy.com/embed/zdhgBtpANvh6G6ERNz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Massivesci-genetics-genes-gene-sequencing-zdhgBtpANvh6G6ERNz">via GIPHY</a></p>)">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](<iframe src="https://giphy.com/embed/zdhgBtpANvh6G6ERNz">
 
 
 
