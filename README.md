@@ -25,4 +25,4 @@ I relish the opportunity to try new things and continuously learn and grow. I li
 <a href="https://medium.com/@ishaparikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishaparikh" height="30" width="40" /></a>
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isha2106&show_icons=true&locale=en&layout=compact" alt="isha2106" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isha2106&show_icons=true&locale=en&layout=compact" alt="isha2106" /></p>
