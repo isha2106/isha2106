@@ -1,7 +1,11 @@
 <h1 align="center">Hi! I'm Isha Parikh</h1>
 <h3 align="center">Exploring life, one codon at a time!</h3>
-<p></p>
-<p></p>
+<p>
+  
+</p>
+<p>
+  
+</p>
 
 
 - 🔭 I’m currently working at **Dana Farber Cancer Institute**
