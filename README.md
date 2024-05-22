@@ -10,7 +10,10 @@
 - 📄 My Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
 
 - 📫 Reach me at: **ishaparikh2106@gmail.com**
-  
+
+As a former "lab rat," I honed my skills in biotechnology before transitioning into graduate studies focused on Bioinformatics. My journey into data analysis allowed me to delve into the world of cancer data using electronic medical records, nurturing a deep passion for data management and bioinformatics. Now pursuing my master's, I've embraced the challenges of mastering programming languages like Python and R. Sequencing and deciphering complex datasets have become my playground and my motivation lies in unraveling the mysteries of biology to address real-world problems.
+I relish the opportunity to try new things and continuously learn and grow. I like to explore new bioinformatics tools biotech advancements and like reading about cancer and space biology articles. Join me in this riveting journey, where science, data and curiosity converge to explore the boundless possibilities of the bioinformatics landscape.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishaparikh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaparikh98" height="30" width="40" /></a>
