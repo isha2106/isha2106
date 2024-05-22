@@ -2,7 +2,7 @@
 <h3 align="center">Exploring life, One codon at a time!</h3>
 
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](<iframe src="https://giphy.com/embed/zdhgBtpANvh6G6ERNz">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/zdhgBtpANvh6G6ERNz">
 
 
 
