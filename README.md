@@ -4,13 +4,13 @@
 <hr>
 <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRpMGtlcHY3em5vN3h5bzRua2dwY2sxNTN2dHZiN25nZzBnZjRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif">
 
-- 🔭 I am currently working as a Bioinformatician at **Dana Farber Cancer Institute**
+  🔭 I am currently working as a Bioinformatician at **Dana Farber Cancer Institute**
 
-- 👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
+  👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
 
-- 📄 [My Publications](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
+  📄 [My Publications](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
 
-- 📫 Reach me at: **ishaparikh2106@gmail.com**
+  📫 Reach me at: **ishaparikh2106@gmail.com**
 <hr>
 <hr>
 <div style="font-family: 'Times New Roman', Times, serif;"> 
