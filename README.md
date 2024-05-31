@@ -45,20 +45,14 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  <a href="https://gatk.broadinstitute.org/hc/en-us/categories/360002310591" target="_blank" rel="noreferrer">
+    <img src="https://theme.zdassets.com/theme_assets/2378360/ceb967563bfc35b9ab52ba13c0f5c4d870dff930.png" alt="GATK" width="40" height="40"/>
   </a>
-  <a href="https://gatk.broadinstitute.org/hc/en-us" target="_blank" rel="noreferrer">
-    <img src="https://gatk.broadinstitute.org/hc/article_attachments/360003932632/GATK_4_logo.png" alt="GATK" width="40" height="40"/>
+  <a href="https://www.nextflow.io/docs/latest/index.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextflow_logo.png" alt="Nextflow" width="40" height="40"/>
   </a>
-  <a href="https://www.nextflow.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.nextflow.io/img/logo-4-192.png" alt="Nextflow" width="40" height="40"/>
-  </a>
-  <a href="https://anaconda.org/" target="_blank" rel="noreferrer">
-    <img src="https://anaconda.org/static/img/anaconda-logo.svg" alt="Conda" width="40" height="40"/>
-  </a>
-  <a href="https://singularity.lbl.gov/" target="_blank" rel="noreferrer">
-    <img src="https://singularity.lbl.gov/assets/img/logo/transparentlogo-200x200.png" alt="Singularity" width="40" height="40"/>
+  <a href="https://conda.io/projects/conda/en/latest/user-guide/install/index.html" target="_blank" rel="noreferrer">
+    <img src="https://docs.crc.nd.edu/_images/conda.png" alt="Conda" width="40" height="40"/>
   </a>
 </p>
 <hr>
