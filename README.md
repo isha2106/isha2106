@@ -1,10 +1,10 @@
 <h1 align="center">Hi! I'm Isha Parikh</h1>
-<h3 align="center">Growing Knowledge, One Codon at a Time 🧬</h3>
+<h3 align="center">GROWING, One Codon at a Time 🧬</h3>
 <hr>
 <hr>
 <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRpMGtlcHY3em5vN3h5bzRua2dwY2sxNTN2dHZiN25nZzBnZjRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif">
 
-  🔭 I am currently working as a Bioinformatician at **Dana Farber Cancer Institute**
+  🔭 Bioinformatician at **Dana Farber Cancer Institute**
 
   👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
 
