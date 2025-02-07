@@ -19,12 +19,10 @@
 <hr>
 <div style="font-family: 'Times New Roman', Times, serif;"> 
 I am a Bioinformatician with a problem-solving mindset and a passion for continuous learning. I like working in application-driven environments where I can stack skills, innovate, and tackle complex challenges in translational research to drive patient-centric solutions. 
-</div>
-<div style="font-family: 'Times New Roman', Times, serif;"> 
-  I specialize in designing scalable workflows using R, Python, and Nextflow to analyze therapeutic effects and uncover novel biological insights. My expertise in NGS data analysis and machine learning fuels my passion for precision medicine, and I am always eager to push boundaries, ask the unasked questions, and explore new frontiers in bioinformatics.
-  
-  Beyond my work, I love connecting, organizing, and knowledge-sharing within the bioinformatics community. Whether it's a deep dive into genomics, a new tech breakthrough, or the latest in biotech entrepreneurship—ping me! Let’s talk, learn, and innovate together.
 
+I specialize in designing scalable workflows using R, Python, and Nextflow to analyze therapeutic effects and uncover novel biological insights. My expertise in NGS data analysis and machine learning fuels my passion for precision medicine, and I am always eager to push boundaries, ask the unasked questions, and explore new frontiers in bioinformatics.
+
+Beyond my work, I love connecting, organizing, and knowledge-sharing within the bioinformatics community. Whether it's a deep dive into genomics, a new tech breakthrough, or the latest in biotech entrepreneurship—ping me! Let’s talk, learn, and innovate together.
 </div>
 <hr>
 <div style="font-family: 'Times New Roman', Times, serif;"> 
