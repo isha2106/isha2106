@@ -70,9 +70,6 @@ Following are some of the private repositories which can be shared upon request:
   <a href="https://linkedin.com/in/ishaparikh98" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaparikh98" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@ishaparikh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishaparikh" height="30" width="40" />
-  </a>
 </p>
 <hr>
 
