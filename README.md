@@ -7,8 +7,11 @@
   🔭 Bioinformatician at **Dana Farber Cancer Institute**
 
   👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
+  
   🎟 [Event Coordinator of Boston-area Women in Bioinformatics](https://www.linkedin.com/groups/13074137) 
+  
   🎓 Former President, Graduate Biotechnology & Bioinformatics Association, Northeastern University
+  
   📄 [My Publications](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
 
   📫 Reach me at: **parikh.i@northeastern.edu**
