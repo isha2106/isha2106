@@ -18,12 +18,12 @@
 <hr>
 <hr>
 <div style="font-family: 'Times New Roman', Times, serif;"> 
-  <p>👩‍💻 <strong>Where curiosity meets code, and the occasional brain fart happens.</strong></p>
+  <p>👩‍💻 <strong> This is a place where curiosity meets code, and the occasional brain fart happens.</strong></p>
 
   <p>Welcome to my GitHub, where I experiment, iterate, and occasionally break things in the name of learning! 
   I juggle bioinformatics tools, cancer genomics, scRNA workflows, and Nextflow pipelines while exploring the ever-evolving world of Bioinformatics.</p>
 
-  <p>I’m passionate about the intersection of <strong>machine learning</strong> and <strong>omics data</strong>, and I believe <strong>LLMs</strong> are reshaping how we approach complex problems in biology. 
+  <p>I’m passionate about the intersection of machine learning and omics data, and I believe LLMs are reshaping how we approach complex problems in biology. 
   Here, you’ll find my journey of trying, failing, and (hopefully) succeeding as I push boundaries and embrace new challenges.</p>
 
   <p><strong>Got a cool idea? Let’s tinker and build something awesome together! 🚀</strong></p>
