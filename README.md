@@ -18,7 +18,7 @@ I am a Bioinformatician with a problem-solving mindset and a passion for continu
 I specialize in designing scalable workflows using R, Python, and Nextflow to analyze therapeutic effects and uncover novel biological insights. My expertise in NGS data analysis and machine learning fuels my passion for precision medicine, and I am always eager to push boundaries, ask the unasked questions, and explore new frontiers in bioinformatics.
 Beyond my work, I love connecting, organizing, and knowledge-sharing within the bioinformatics community. Whether it's a deep dive into genomics, a new tech breakthrough, or the latest in biotech entrepreneurship—ping me! Let’s talk, learn, and innovate together.
 </div>
-
+<hr>
 <div style="font-family: 'Times New Roman', Times, serif;"> 
 Following are some of the private repositories which can be shared upon request:
   
