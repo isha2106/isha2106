@@ -31,7 +31,7 @@ Following are some of the private repositories which can be shared upon request:
 </div>
 <hr>
 <h3 align="center">Languages and Tools</h3>
-<p align="center">
+
   ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r)
   ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash)
@@ -77,7 +77,6 @@ Following are some of the private repositories which can be shared upon request:
   ![Biopython](https://img.shields.io/badge/Biopython-%23FFD700?style=for-the-badge)
   ![BEDTools](https://img.shields.io/badge/BEDTools-%23DC143C?style=for-the-badge)
   ![VCFtools](https://img.shields.io/badge/VCFtools-%23FF6347?style=for-the-badge)
-</p>
 <hr>
 <h3 align="center">Connect with me</h3>
 <p align="center">
