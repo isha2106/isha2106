@@ -14,8 +14,14 @@
 <hr>
 <hr>
 <div style="font-family: 'Times New Roman', Times, serif;"> 
-  As a former "lab rat", I honed my skills in biotechnology before transitioning into graduate studies focused on Bioinformatics. My journey into data analysis allowed me to delve into the world of cancer data using electronic medical records, nurturing a deep passion for data management and bioinformatics. Now pursuing my master's, I've embraced the challenges of mastering programming languages like Python and R. Sequencing and deciphering complex datasets have become my playground and my motivation lies in unraveling the mysteries of biology to address real-world problems.
-  I relish the opportunity to try new things and continuously learn and grow. I like to explore new bioinformatics tools, biotech advancements, and reading about cancer and space biology articles. Join me in this riveting journey, where science, data, and curiosity converge to explore the boundless possibilities of the bioinformatics landscape.
+I am a Bioinformatician with a problem-solving mindset and a passion for continuous learning. I like working in application-driven environments where I can stack skills, innovate, and tackle complex challenges in translational research to drive patient-centric solutions.
+I specialize in designing scalable workflows using R, Python, and Nextflow to analyze therapeutic effects and uncover novel biological insights. My expertise in NGS data analysis and machine learning fuels my passion for precision medicine, and I am always eager to push boundaries, ask the unasked questions, and explore new frontiers in bioinformatics.
+Beyond my work, I love connecting, organizing, and knowledge-sharing within the bioinformatics community. Whether it's a deep dive into genomics, a new tech breakthrough, or the latest in biotech entrepreneurship—ping me! Let’s talk, learn, and innovate together.
+
+Following are some of the private repositories which can be shared upon request:
+* Development of Variant Calling Pipeline for Genomic Studies 
+* Integrated Multi-Omics Analysis of MDM2 Mutation 
+* Development of Analytical Database and Analysis of Pharma Sales 
 </div>
 <hr>
 <h3 align="center">Languages and Tools</h3>
