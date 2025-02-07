@@ -77,6 +77,7 @@ Following are some of the private repositories which can be shared upon request:
   ![Biopython](https://img.shields.io/badge/Biopython-%23FFD700?style=for-the-badge)
   ![BEDTools](https://img.shields.io/badge/BEDTools-%23DC143C?style=for-the-badge)
   ![VCFtools](https://img.shields.io/badge/VCFtools-%23FF6347?style=for-the-badge)
+  ![Bash](https://camo.githubusercontent.com/46550e75105b15a821d294a0ebcee1739d1b1694e65d91e385ebb2d21cd371d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626173685f7363726970742d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465)
 <hr>
 <h3 align="center">Connect with me</h3>
 <p align="center">
