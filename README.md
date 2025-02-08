@@ -4,17 +4,17 @@
 <hr>
 <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRpMGtlcHY3em5vN3h5bzRua2dwY2sxNTN2dHZiN25nZzBnZjRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif">
 
-  🔭 Bioinformatician at **Dana Farber Cancer Institute**
+ # 🔭 Bioinformatician at **Dana Farber Cancer Institute**
 
-  👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
+ # 👩‍🔬 [Active member of NASA GeneLab’s Multiomics AWG](https://osdr.nasa.gov/bio/awg/awg-members.html)
   
-  🎟 [Event Coordinator of Boston-area Women in Bioinformatics](https://www.linkedin.com/groups/13074137) 
+ # 🎟 [Event Coordinator of Boston-area Women in Bioinformatics](https://www.linkedin.com/groups/13074137) 
   
-  🎓 Former President, Graduate Biotechnology & Bioinformatics Association, Northeastern University
+ # 🎓 Former President, Graduate Biotechnology & Bioinformatics Association, Northeastern University
   
-  📄 [My Publications](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
+  #📄 [My Publications](https://scholar.google.com/citations?hl=en&user=15ZVORsAAAAJ)
 
-  📫 Reach me at: **parikh.i@northeastern.edu**
+  #📫 Reach me at: **parikh.i@northeastern.edu**
 <hr>
 <hr>
 <div style="font-family: 'Times New Roman', Times, serif;"> 
