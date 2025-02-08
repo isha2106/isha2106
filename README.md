@@ -3,8 +3,7 @@
 <hr>
 <hr>
 <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRpMGtlcHY3em5vN3h5bzRua2dwY2sxNTN2dHZiN25nZzBnZjRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif">
-<hr>
-<hr>
+
 <div style="font-family: 'Times New Roman', Times, serif;"> 
   <p>👩‍💻 <strong> This is a place where curiosity meets code, and the occasional brain fart happens.</strong></p>
 
